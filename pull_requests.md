@@ -1,3 +1,5 @@
-1. 
-2. Bruce Tate
-3. 
+- 
+- Bruce Tate
+-  
+- 
+- 
