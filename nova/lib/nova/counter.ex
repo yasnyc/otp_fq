@@ -1,4 +1,4 @@
-defmodule Counter do 
+defmodule Nova.Counter do 
   @moduledoc """
   Documentation for `Counter`.
   """
